@@ -2097,6 +2097,10 @@ responsive
   .about-us .about-item {
     margin-top: 15px;
   }
+  .kpi{
+    width:750px;
+    height:902px;
+  }
   form#contact {
     padding: 30px;
   }
