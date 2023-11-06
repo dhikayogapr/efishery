@@ -2100,6 +2100,7 @@ responsive
   .menu iframe{
     width:750px;
     height:902px;
+    .post-body embed, .post-body object, .post-body iframe {width:100% !important;}
   }
   form#contact {
     padding: 30px;
